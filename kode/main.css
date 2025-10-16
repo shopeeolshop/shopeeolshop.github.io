@@ -15,14 +15,14 @@
 }
 ::-moz-selection{
 	color: #fff;
-	background: violet;
+	background: #FFA500;
 }
 ::selection{
 	color: #fff;
-	background: violet;
+	background: #FFA500;
 }
 :root{
-	--orange: #ff4d00;
+	--orange: #FF4D00;
 	--box-shadow: 0 4px 16px rgba(0,0,0,.25);
 }
 html{
