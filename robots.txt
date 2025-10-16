@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shopeeolshop.github.io/sitemap.xml
