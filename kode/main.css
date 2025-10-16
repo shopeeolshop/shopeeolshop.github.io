@@ -22,7 +22,7 @@
 	background: violet;
 }
 :root{
-	--biru: #4285f4;
+	--orange: #ff4d00;
 	--box-shadow: 0 4px 16px rgba(0,0,0,.25);
 }
 html{
@@ -73,13 +73,13 @@ ol > li::marker{
 	font-size: 28px;
 	text-align: center;
 	margin-bottom: 2rem;
-	color: var(--biru);
+	color: var(--orange);
 	text-shadow: 2px 2px 2px #333;
 	letter-spacing: 8px;
 	line-height: 36px;
 }
 .heading span{
-	color: var(--biru);
+	color: var(--orange);
 	display: block;
 }
 .alt-heading{
@@ -90,9 +90,9 @@ ol > li::marker{
 .btn{
 	margin-top: 1rem;
 	display: inline-block;
-	border: 1px solid var(--biru);
+	border: 1px solid var(--orange);
 	border-radius: 2px;
-	color: var(--biru);
+	color: var(--orange);
 	cursor: pointer;
 	background: none;
 	padding: 8px 16px;
@@ -103,7 +103,7 @@ ol > li::marker{
 	        user-select: none;
 }
 .btn:hover{
-	background: var(--biru);
+	background: var(--orange);
 	color: #fff;
 }
 .grid{
@@ -185,7 +185,7 @@ footer{
 .header .logo{
 	font-size: 24px;
 	font-weight: bold;
-	color: var(--biru);
+	color: var(--orange);
 	flex: none;
 }
 .header .search{
@@ -196,9 +196,9 @@ footer{
     align-items: center;
     width: 34px;
     height: 34px;
-	background: var(--biru); 
+	background: var(--orange); 
 	color: ghostwhite;
-	border: 1px solid var(--biru);
+	border: 1px solid var(--orange);
 	border-radius: 2px;
 }
 /* responsive media query */
@@ -229,7 +229,7 @@ footer{
 .main .article h1{
 	font-size: 32px;
 	line-height: 40px;
-	color: var(--biru);
+	color: var(--orange);
 }
 .main .article figure figcaption{
 	margin-top: 8px;
@@ -238,7 +238,7 @@ footer{
 	color: #999;
 }
 .main .article a{
-	color: var(--biru);
+	color: var(--orange);
 }
 .main .article a:hover{
 	color: navy;
@@ -296,7 +296,7 @@ footer{
 }
 .main .aside > b{
 	font-size: 24px;
-	text-shadow: 1px 1px var(--biru);
+	text-shadow: 1px 1px var(--orange);
 }
 .main .aside .artikel-baru{
 	margin-top: 20px;
@@ -307,7 +307,7 @@ footer{
 	display: flex;
 	gap: 1rem 8px;
 	margin-bottom: 16px;
-	color: var(--biru);
+	color: var(--orange);
 }
 .main .aside .artikel-baru a img{
 	max-width: 90px;
@@ -356,7 +356,7 @@ body > .section > *:not(:last-child){
 }
 body > .section h1{
 	font-size: 32px;
-	color: var(--biru);
+	color: var(--orange);
 	line-height: 40px;
 	text-align: center;
 }
@@ -369,7 +369,7 @@ body > .section h3{
 	line-height: 32px;
 }
 body > .section a{
-	color: var(--biru);
+	color: var(--orange);
 }
 body > .section a:hover{
 	color: navy;
@@ -405,7 +405,7 @@ body > .section ol > li::marker{
 .footer .container .box b{
 	font-size: 22px;
 	margin-bottom: 1.5rem;
-	text-shadow: 1px 1px var(--biru);
+	text-shadow: 1px 1px var(--orange);
 	display: block;
 }
 .footer .container .box img{
@@ -422,7 +422,7 @@ body > .section ol > li::marker{
 	margin-bottom: 1rem;
 }
 .footer .container .box a:hover{
-	color: var(--biru);
+	color: var(--orange);
 }
 .footer .container .box a span{
 	margin-right: 8px;
@@ -447,11 +447,11 @@ body > .section ol > li::marker{
 .footer .container .box #formulir .btn{
 	border-radius: 2px;
 	padding: 8px 24px;
-	color: var(--biru);
+	color: var(--orange);
 	margin-top: 8px;
 }
 .footer .container .box #formulir .btn:hover{
-	background: var(--biru);
+	background: var(--orange);
 	color: #fff;
 }
 .footer .credit{
@@ -463,7 +463,7 @@ body > .section ol > li::marker{
 	text-align: center;
 }
 .footer .credit p a{
-	color: var(--biru);
+	color: var(--orange);
 }
 .footer .credit p a:hover{
 	color: navy;
@@ -527,7 +527,7 @@ body > .section ol > li::marker{
 	height: auto;
 }
 .box-search .hasil-pencarian .ditemukan b{
-	color: var(--biru);
+	color: var(--orange);
 	margin-top: 16px;
 	display: block;
 	line-height: 24px;
