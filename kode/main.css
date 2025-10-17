@@ -238,10 +238,10 @@ footer{
 	color: #999;
 }
 .main .article a{
-	color: var(--orange);
+	color: blue;
 }
 .main .article a:hover{
-	color: navy;
+	color: darkblue;
 }
 .main .article ul li:not(:last-child),
 .main .article ol li:not(:last-child){
@@ -547,3 +547,4 @@ body > .section ol > li::marker{
 	}
 
 }
+
