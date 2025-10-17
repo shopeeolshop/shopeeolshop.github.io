@@ -13,6 +13,7 @@
 	    -ms-user-select: none!important;
 	        user-select: none!important;
 }
+/*
 ::-moz-selection{
 	color: #fff;
 	background: #FFA500;
@@ -21,6 +22,7 @@
 	color: #fff;
 	background: #FFA500;
 }
+*/
 :root{
 	--orange: #FF4D00;
 	--box-shadow: 0 4px 16px rgba(0,0,0,.25);
@@ -550,5 +552,6 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
