@@ -72,7 +72,9 @@ tahun.innerHTML = date;
 
 
 // *************** anti cheats ***************
-document.addEventListener("contextmenu", e => {
+/*
+
+ document.addEventListener("contextmenu", e => {
  e.preventDefault();
 }, false);
 document.body.addEventListener('keydown', event => {
@@ -81,3 +83,5 @@ document.body.addEventListener('keydown', event => {
   }
 
 });
+
+*/
