@@ -6,10 +6,10 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>https://shopeeolshop.github.io/image-1.jpg</image:loc>
+            <image:loc>https://shopeeolshop.github.io/gambar/utama/logo-shopee-olshop.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://shopeeolshop.github.io/image-2.jpg</image:loc>
+            <image:loc>https://shopeeolshop.github.io/gambar/utama/sampul-shopee-olshop.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -23,6 +23,7 @@
     </url>
 
 </urlset>
+
 
 
 
