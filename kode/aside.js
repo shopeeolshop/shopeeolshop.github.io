@@ -1,5 +1,5 @@
 // // *************** aside artikel ***************
-fetch('/artikel.json')
+fetch('/json/artikel.json')
   .then(response => response.json())
   .then(data => {
     const artikelBaru = document.querySelector('.artikel-baru');
@@ -19,4 +19,5 @@ fetch('/artikel.json')
   })
   .catch(error => {
     console.error('Error:', error);
+
   });
