@@ -1,7 +1,7 @@
 // *************** Artikel Section ***************
 async function fetchLatestArticles() {
     try {
-        const response = await fetch('/artikel.json');
+        const response = await fetch('/json/artikel.json');
         const data = await response.json();
         // Mengambil 5 artikel terbaru dan membalik urutannya
         const latestArticles = data.daftar_artikel.slice(-5).reverse();
@@ -64,4 +64,5 @@ const artikelTerbaruSlider = new Swiper(".container-slider", {
     autoplay: {
         delay: 2500,
     },
+
 });
