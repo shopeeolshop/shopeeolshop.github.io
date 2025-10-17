@@ -237,6 +237,9 @@ footer{
 	text-align: center;
 	color: #999;
 }
+.main .article .barang{
+	margin-bottom: 24px;
+}
 .main .article a{
 	color: blue;
 }
@@ -547,4 +550,5 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
