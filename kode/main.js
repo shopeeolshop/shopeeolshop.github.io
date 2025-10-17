@@ -40,7 +40,7 @@ kolomTelusur.addEventListener("input", () => {
 
 async function fetchArticles(query) {
   try {
-    const response = await fetch('/artikel.json');
+    const response = await fetch('/json/artikel.json');
     const data = await response.json();
     const filteredArticles = data.daftar_artikel.filter(article => 
       article.judul.toLowerCase().includes(query)
@@ -79,4 +79,5 @@ document.body.addEventListener('keydown', event => {
   if (event.ctrlKey && 'cvxspwuaz'.indexOf(event.key) !== -1) {
     event.preventDefault()
   }
+
 });
