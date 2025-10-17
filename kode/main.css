@@ -229,7 +229,7 @@ footer{
 .main .article h1{
 	font-size: 32px;
 	line-height: 40px;
-	color: var(--orange);
+	color: navy;
 }
 .main .article figure figcaption{
 	margin-top: 8px;
@@ -545,4 +545,5 @@ body > .section ol > li::marker{
 	.box-search .hasil-pencarian::-webkit-scrollbar{
 		width: 5px;
 	}
+
 }
