@@ -11,6 +11,12 @@
         <image:image>
             <image:loc>https://shopeeolshop.github.io/gambar/utama/sampul-shopee-olshop.jpg</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://shopeeolshop.github.io/gambar/utama/bg-hero-shopee-olshop.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://shopeeolshop.github.io/gambar/utama/tawaran-shopee-olshop.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://shopeeolshop.github.io/daftar-100-produk-trending-shopee-kategori-otomotif-oktober-2025.html</loc>
@@ -23,6 +29,7 @@
     </url>
 
 </urlset>
+
 
 
 
