@@ -1,600 +1,700 @@
 {
   "otomotif": [
     {
-      "namaProduk": "FDR TL SPORT MP27 Ring 14 dan 17 Ban Motor \"TUBELESS\" RACING TIRE",
+      "id": "1",
+      "namaProduk": "FDR TL SPORT MP27 Ring 14 dan 17 Ban Motor 'TUBELESS' RACING TIRE",
       "hargaProduk": "365.690",
       "urlProduk": "https://s.shopee.co.id/gHJV9mu6z",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/001-fdr-tl-sport-mp27.jpg"
     },
     {
+      "id": "2",
       "namaProduk": "Aki Motor Honda Vario 125 GTZ7S Accu Kering MF",
       "hargaProduk": "154.900",
       "urlProduk": "https://s.shopee.co.id/5L393jDKj2",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/002-aki-motor-honda-vario-125-gtz7s.jpg"
     },
     {
+      "id": "3",
       "namaProduk": "Knalpot Moncong Shijiro Model Luster ENGKER Saringan Bor Boran Inlet 28-38 out 50 BEAT VARIO SCOOPY NMAX AEROX MIO PCX",
       "hargaProduk": "275.000",
       "urlProduk": "https://s.shopee.co.id/10u9tl7YYc",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/003-knalpot-moncong-shijiro.png"
     },
     {
+      "id": "4",
       "namaProduk": "Papan Nomor Cover Nomor KTM 2017 PNP",
       "hargaProduk": "36.000",
       "urlProduk": "https://s.shopee.co.id/2g2Nsob9n6",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/004-papan-nomor-cover-nomor-ktm.png"
     },
     {
-      "namaProduk": "lowering shock depan \"banting harga\" Beat scoopy genio Vario 125/150",
+      "id": "5",
+      "namaProduk": "lowering shock depan 'banting harga' Beat scoopy genio Vario 125/150",
       "hargaProduk": "44.999",
       "urlProduk": "https://s.shopee.co.id/8zwRQRmmmq",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/005-lowering-shock-depan-bosing-1-paket.png"
     },
     {
+      "id": "6",
       "namaProduk": "Roller Vario 150 125 Esp PCX ADV Genio Beat Scoopy (Ringan)",
       "hargaProduk": "45.000",
       "urlProduk": "https://s.shopee.co.id/9Usi1MK4UM",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/006-roller-racing-yamagata-3-pcs.jpeg"
     },
     {
+      "id": "7",
       "namaProduk": "PAKET PROMO Spion X1 Lipat Cnc Tangkai Pendek Nmax Aerox Pcx Vario Dll",
       "hargaProduk": "26.000",
       "urlProduk": "https://s.shopee.co.id/30fEHPN1Y9",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/007-spion-x1-125z.jpg"
     },
     {
+      "id": "8",
       "namaProduk": "Sarung Tangan Motor Waterproof FULL PROTECTOR Pria Wanita",
       "hargaProduk": "32.000",
       "urlProduk": "https://s.shopee.co.id/4fnSGSqYX0",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/008-sarung-tangan-motor-waterproof.jpg"
     },
     {
+      "id": "9",
       "namaProduk": "Kaca Helm Bogo Dewasa & Anak Visor Smoke Hitam Kaca Helm Bogo Datar Kaca Helm Bogo Cembung Kaca Helm Bogo",
       "hargaProduk": "19.999",
       "urlProduk": "https://s.shopee.co.id/VxtIng1Hl",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/009-kaca-helm-bogo-dewasa-cembung.jpg"
     },
     {
+      "id": "10",
       "namaProduk": "ANTI CAKAR KUCING!! Sarung Jok Motor Anti Panas / Cover Jok Motor Sarung Jok Anti Sobek",
       "hargaProduk": "25.000",
       "urlProduk": "https://s.shopee.co.id/7pkU2GrPrl",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/010-cover-jok-anti-cakar-kucing-tinggal-pasang.png"
     },
     {
+      "id": "11",
       "namaProduk": "VANBELT Beat Deluxe Vario 125 Vario 150 Scoopy Genio PCX ADV VARIO 160 KODE PART K1A K0J K0R K97 K93",
-      "hargaProduk": "98.990",
+      "hargaProduduk": "98.990",
       "urlProduk": "https://s.shopee.co.id/1qTGtEjOIk",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/011-van-belt-motor-honda-merek-daytona.png"
     },
     {
+      "id": "12",
       "namaProduk": "Lampu Depan Motor Mobil Mini Projie LED BILED Hi/Low 2 Warna",
       "hargaProduk": "20.900",
       "urlProduk": "https://s.shopee.co.id/6KvgFV2H3n",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/012-lampu-depan-motor-mobil-mini.jpg"
     },
     {
+      "id": "13",
       "namaProduk": "Aki Motor GTZ5S MF Aki Kering Accu Kering Honda Beat Scoopy Vario 110 Spacy Revo Blade Yamaha Mio J Mio Soul GT Xride Vixion Vega ZR Jupiter Z1",
       "hargaProduk": "115.000",
       "urlProduk": "https://s.shopee.co.id/5AjirLkmla",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/013-aki-motor-gtz5s-mf.png"
     },
     {
+      "id": "14",
       "namaProduk": "Master Rem BRB Oval Model RCB S1",
       "hargaProduk": "89.000",
       "urlProduk": "https://s.shopee.co.id/AUlFD8zbQR",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/014-master-rem-brb-oval.png"
     },
     {
+      "id": "15",
       "namaProduk": "Universal pelindung jok motor anti cakar kucing dan anti air",
       "hargaProduk": "17.000",
       "urlProduk": "https://s.shopee.co.id/8V0ApSgomF",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/015-universal-pelindung-jok-sadel.jpeg"
     },
     {
+      "id": "16",
       "namaProduk": "Shock Breaker Shockbreaker Matic Tabung Mio Vario Beat Scoopy Fino Genio Soul GT X Ride 280mm 300mm",
       "hargaProduk": "179.999",
       "urlProduk": "https://s.shopee.co.id/4ArBfUXSys",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/016-shock-breaker-satu-pasang.jpg"
     },
     {
+      "id": "17",
       "namaProduk": "COVER JOK MOTOR POLOS KARBON SERAT PEMBUNGKUS JOK MOTOR BERKUALITAS",
       "hargaProduk": "18.000",
       "urlProduk": "https://s.shopee.co.id/4fnSGP4cAd",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/017-cover-jok-motor-polos.jpg"
     },
     {
+      "id": "18",
       "namaProduk": "HELM BOGO RETRO DEWASA SNI KACA CEMBUNG DAN DATAR TERMURAH ALLSIZE",
       "hargaProduk": "44.800",
       "urlProduk": "https://s.shopee.co.id/8fJb1kPfzH",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/018-helm-bogo-retro-dewasa.jpg"
     },
     {
+      "id": "19",
       "namaProduk": "Promo paket spion x1 dan jalu as roda cnc",
       "hargaProduk": "35.900",
       "urlProduk": "https://s.shopee.co.id/3LI4fwFJqZ",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/019-paket-spion-x1-set.png"
     },
     {
-      "namaProduk": "Helm Bogo Classik Garis Tengah Kulit \"Best Seller\" SNI-Dewasa",
+      "id": "20",
+      "namaProduk": "Helm Bogo Classik Garis Tengah Kulit 'Best Seller' SNI-Dewasa",
       "hargaProduk": "49.000",
       "urlProduk": "https://s.shopee.co.id/6AcG38LqeN",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/020-helm-bogo-klasik-garis-tiga.png"
     },
     {
+      "id": "21",
       "namaProduk": "Helm Bogo Classik Garis Tengah Kulit \u201cBest Seller\u201d SNI-Dewasa",
       "hargaProduk": "49.000",
       "urlProduk": "https://s.shopee.co.id/5pzPeVsjQ2",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/021-helm-bogo-klasik-garis-tiga.png"
     },
     {
+      "id": "22",
       "namaProduk": "Baut Tutup Oli Mesin Heng Bunga Flower Drat Kasar Yamaha Jupiter Mio Vixion",
       "hargaProduk": "10.000",
       "urlProduk": "https://s.shopee.co.id/2B67HlkPtg",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/022-baut-tutup-oli-mesin.png"
     },
     {
+      "id": "23",
       "namaProduk": "SARUNG JOK MOTOR COVER ANTI AIR ANTI PANAS ANTI SOBEK PELINDUNG JOK MOTOR DARI KUCING",
       "hargaProduk": "15.000",
       "urlProduk": "https://s.shopee.co.id/5L393aCIIX",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/023-sarung-jok-motor.jpg"
     },
     {
+      "id": "24",
       "namaProduk": "Cover Motor Waterproof DRACCO Sarung Pelindung Motor Anti Air Cover Motor Anti Panas",
       "hargaProduk": "84.900",
       "urlProduk": "https://s.shopee.co.id/qajhJ2tCz",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/024-cover-motor-waterproof-dracco.jpg"
     },
     {
+      "id": "25",
       "namaProduk": "KOPLING R25 HANDLE REM KOPLING SET R25 HANDEL REM KOPLING SET RCB S1 VARIO NMAX PCX MIO JUPITER",
       "hargaProduk": "24.999",
       "urlProduk": "https://s.shopee.co.id/70BN2d69Aw",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/025-handle-kopling-yamaha-r25.jpg"
     },
     {
+      "id": "26",
       "namaProduk": "PHONE HOLDER HP MOTOR GUB P30 ORIGINAL FULL BESI ANTI JATUH UNIVERSAL",
       "hargaProduk": "26.000",
       "urlProduk": "https://s.shopee.co.id/8ANKQlXFdi",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/026-phone-holder-hp-motor.jpg"
     },
     {
+      "id": "27",
       "namaProduk": "Aki Motor KAYABA GTZ5S MF Aki Kering Accu Kering Honda Beat Vario 110 Scoopy Spacy Revo Blade Yamaha Mio J Mio Soul GT Xride Vixion Vega ZR Jupiter Z1",
       "hargaProduk": "135.000",
       "urlProduk": "https://s.shopee.co.id/7AUnEv1aMS",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/027-aki-motor-kayaba-gtz5s.jpg"
     },
     {
+      "id": "28",
       "namaProduk": "(COD) - Slebor Spakbor Depan Universal Cross Trail KTM CRF KLX D-TRACKER PNP",
       "hargaProduk": "25.000",
       "urlProduk": "https://s.shopee.co.id/4VU240lGoX",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/028-slebor-spakbor-depan-beat-fi.jpeg"
     },
     {
+      "id": "29",
       "namaProduk": "COD FOOTSTEP BELAKANG VARIO 125 VARIO 150 BEAT SCOOPY MIO NMAX PCX DLL",
       "hargaProduk": "25.000",
       "urlProduk": "https://s.shopee.co.id/4fnSGJBzJS",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/029-footstep-belakang-chrome.png"
     },
     {
+      "id": "30",
       "namaProduk": "ban metic tubeless ukuran 90/80 ring 14 ban motor metic scoopy beat vario",
       "hargaProduk": "125.000",
       "urlProduk": "https://s.shopee.co.id/7pkU27Z3N4",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/030-ban-matic-tubeless.png"
     },
     {
+      "id": "31",
       "namaProduk": "[READY STOCK COD] BAN LUAR MOTOR TUBELESS Ukuran 80/90 Ring 14 & 90/90 Ring 14 Merk Swallow | Ban Motor Matic | Ban Tubles Beat Vario Scoopy Mio",
       "hargaProduk": "103.000",
       "urlProduk": "https://s.shopee.co.id/AKRp0hzLNP",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/031-ban-maxxis-diamond-ma-3dn.jpg"
     },
     {
+      "id": "32",
       "namaProduk": "HELM BOGO DEWASA SNI KACA CEMBUNG / DATAR",
       "hargaProduk": "44.000",
       "urlProduk": "https://s.shopee.co.id/7fR3pnip2t",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/032-helm-bogo-dewasa-klasik.png"
     },
     {
+      "id": "33",
       "namaProduk": "KARBURATOR KEIHIN SUDCO PE 28 ASLI THAILAND SKPW 28 KARBU PE 28 SUDCO ORIGINAL",
       "hargaProduk": "145.000",
       "urlProduk": "https://s.shopee.co.id/7pkU26ICaN",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/033-karburator-keihin-sudco-qas-pwk.jpg"
     },
     {
+      "id": "34",
       "namaProduk": "Lampu Ala Ala Biled 2.5 inch Super Terang 2 Warna Jauh Dekat Tembak Mini Projie H4 H6 H7 Motor Mobil",
       "hargaProduk": "45.000",
       "urlProduk": "https://s.shopee.co.id/9KZHoqq548",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/034-lampu-ala-ala-biled-.jpg"
     },
     {
+      "id": "35",
       "namaProduk": "!! ANTI CAKAR KUCING !! SARUNG JOK MOTOR HITAM COVER JOK MOTOR ANTI AIR ANTI SOBEK PELINDUNG JOK MOTOR DARI KUCING SARUNG JOK",
       "hargaProduk": "17.000",
       "urlProduk": "https://s.shopee.co.id/LeT6IGUu5",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/035-jok-motor-embos-prima.jpg"
     },
     {
+      "id": "36",
       "namaProduk": "Sarung & Kulit Jok Motor BEAT STREET, BEAT DELUXE, GENIO, VARIO, SCOOPY, MIO",
       "hargaProduk": "37.500",
       "urlProduk": "https://s.shopee.co.id/2g2NsZlLCF",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/036-kulit-jok-motor-beat.jpg"
     },
     {
+      "id": "37",
       "namaProduk": "Komstir Comstir Racing Bambu Honda Vario Beat Scoopy PCX Revo Blade Supra X 125 Kharisma",
       "hargaProduk": "26.500",
       "urlProduk": "https://s.shopee.co.id/9pVYPjyXZp",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/037-komstir-racing-standar-vario.jpg"
     },
     {
+      "id": "38",
       "namaProduk": "Helm Retro Bipplast LUMINOS SNI - Helm Bogo Dewasa Classic Terbaru - Kaca Cembung Hitam Smoke",
       "hargaProduk": "45.000",
       "urlProduk": "https://s.shopee.co.id/qajhBx7kB",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/038-helm-retro-bipplast-lumino.jpg"
     },
     {
+      "id": "39",
       "namaProduk": "XYKJ Sarung Tangan Motor Pria Wanita Setengah Jari/Half Finger Gloves Berkendara",
       "hargaProduk": "9.999",
       "urlProduk": "https://s.shopee.co.id/3qELGhLVkT",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/039-sarung-tangan-motor-setengah-jari.jpg"
     },
     {
+      "id": "40",
       "namaProduk": "Charger Aki Portable 12V 20A Motor Mobil Fast Charging Digital",
       "hargaProduk": "37.000",
       "urlProduk": "https://s.shopee.co.id/1VqQUP7z04",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/040-charger-aki-portable-12v.jpg"
     },
     {
+      "id": "41",
       "namaProduk": "Sarung Jok Sepeda Motor Anti Panas Cover Jok Motor Anti Air Anti Sobek Pelindung Jok Motor",
       "hargaProduk": "17.000",
       "urlProduk": "https://s.shopee.co.id/5L393R3DBk",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/041-sarung-jok-motor-jaring-3d.jpg"
     },
     {
+      "id": "42",
       "namaProduk": "Ban Motor Ring 17 Sepasang 2.25/2.50 dan 2.50/2.75 Ban Luar Motor",
       "hargaProduk": "100.000",
       "urlProduk": "https://s.shopee.co.id/8V0ApFQl4R",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/042-ban-motor-ring-17-sepasang.png"
     },
     {
+      "id": "43",
       "namaProduk": "Lampu Biled Projector Projie LED Mini 2 Lensa Universal Motor Mobil",
       "hargaProduk": "37.000",
       "urlProduk": "https://s.shopee.co.id/5ffzS26CFG",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/043-lampu-biled-projector.png"
     },
     {
+      "id": "44",
       "namaProduk": "#GARANSI GELL Aki Motor MF GTZ5S Accu Kering Honda Beat Vario 110 Scoopy Spacy Revo Blade Yamaha Mio J Mio Soul GT Xride Vixion Vega ZR Jupiter Z1",
       "hargaProduk": "119.000",
       "urlProduk": "https://s.shopee.co.id/2B67Hay8ne",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/044-aki-motor-honda.jpg"
     },
     {
+      "id": "45",
       "namaProduk": "Knalpot standar racing MIO J - MIO SOUL GT - MIO M3 - XRIDE 115 cc - FINO 115 cc | BOBOKAN ADEN",
       "hargaProduk": "150.000",
       "urlProduk": "https://s.shopee.co.id/7fR3phGzwD",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/045-knalpot-standar-racing-shijiro.jpg"
     },
     {
+      "id": "46",
       "namaProduk": "Lampu Utama LED H6 Model Proji Hi/Low 2 Warna Motor Bebek Matic DC",
       "hargaProduk": "17.000",
       "urlProduk": "https://s.shopee.co.id/6fYWdqyo3r",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/046-lampu-utama-led-h6.jpg"
     },
     {
+      "id": "47",
       "namaProduk": "Acerbis V2 Gas Spontan Motor Universal (Free Kabel Gas)",
       "hargaProduk": "28.000",
       "urlProduk": "https://s.shopee.co.id/6fYWdqTs38",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/047-gas-spontan-kabel-aluminium.jpg"
     },
     {
+      "id": "48",
       "namaProduk": "Roller Vario PCX ADV Genio Beat Scoopy (Berat) 9 gram - 18 gram",
       "hargaProduk": "30.000",
       "urlProduk": "https://s.shopee.co.id/4q6sSTAJXz",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/048-roller-9-gram-yamagata.jpg"
     },
     {
+      "id": "49",
       "namaProduk": "60w LAMPU TEMBAK SQL 3 MATA PROJECTOR LENSA BILED LASER GUN 3 MATA MINI LED 2 WARNA",
       "hargaProduk": "24.999",
       "urlProduk": "https://s.shopee.co.id/3VbUs0tfO7",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/049-lampu-tembak-sql-3-mata.jpg"
     },
     {
+      "id": "50",
       "namaProduk": "Sarung Tangan Motor Wanita Pria Anti UV Setengah Jari/Half Finger Gloves",
       "hargaProduk": "9.500",
       "urlProduk": "https://s.shopee.co.id/5VMZFgLW6q",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/050-sarung-tangan-motor-wanita.png"
     },
     {
+      "id": "51",
       "namaProduk": "AKI KERING BGS GTZ5S MF Accu Motor Beat Vario 110 Scoopy Spacy Revo Blade Mio J Soul GT Xride Vixion Vega ZR Jupiter Z1",
       "hargaProduk": "105.000",
       "urlProduk": "https://s.shopee.co.id/5VMZFfmjQP",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/051-aki-kering-bgs-gtz5s.jpg"
     },
     {
+      "id": "52",
       "namaProduk": "Lampu Utama Depan Motor LED 6 Sisi H6 AC DC",
       "hargaProduk": "18.000",
       "urlProduk": "https://s.shopee.co.id/8pd1Dn95rp",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/052-lampu-utama-depan-motor.jpg"
     },
     {
+      "id": "53",
       "namaProduk": "【1 set Gembok Cakram Militer】Kunci Gembok Cakram Motor Anti Maling Disc Lock",
       "hargaProduk": "19.999",
       "urlProduk": "https://s.shopee.co.id/3fuv4I2diA",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/053-1-set-gembok-cakram-militer.png"
     },
     {
+      "id": "54",
       "namaProduk": "LAMPU LED UTAMA MOTOR H6 AC DC",
       "hargaProduk": "17.000",
       "urlProduk": "https://s.shopee.co.id/40XlStaYlc",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/054-lampu-led-utama-motor.png"
     },
     {
+      "id": "55",
       "namaProduk": "Roller JANGEBY Vario 125 150 PCX ADV Genio Beat Scoopy (Ringan)",
       "hargaProduk": "44.990",
       "urlProduk": "https://s.shopee.co.id/4LAbrUrdZV",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/055-roller-jangeby.jpg"
     },
     {
+      "id": "56",
       "namaProduk": "HOLDER P30 BREKET STAND HP GUB FULL ALUMUNIUM / BESi TERBAIK TERMURAH TERBARU",
       "hargaProduk": "22.500",
       "urlProduk": "https://s.shopee.co.id/4ArBfBS4zy",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/056-holder-p30-breket.jpg"
     },
     {
+      "id": "57",
       "namaProduk": "SHOCKBREAKER ORIGINAL MOTO GP RACING 310MM 330MM VIXION RX KING MP GL PRO MEGAPRO TIGER",
       "hargaProduk": "185.000",
       "urlProduk": "https://s.shopee.co.id/40XlSrspSM",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/057-shockbreaker-original-honda-ahm.jpg"
     },
     {
+      "id": "58",
       "namaProduk": "Aki GTZ5S AKI Motor Yamaha Mio Soul GT Xride Vixion Vega ZR Jupiter Z1 Honda Beat Scoopy Vario 110 Spacy Revo Blade",
       "hargaProduk": "115.000",
       "urlProduk": "https://s.shopee.co.id/2qLo4iTEEF",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/058-aki-motor-gtz5s.jpg"
     },
     {
+      "id": "59",
       "namaProduk": "Lampu Utama Motor H6 Premium LED 3 Mata COB AC DC",
       "hargaProduk": "14.500",
       "urlProduk": "https://s.shopee.co.id/8ANKQVi2sS",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/059-lampu-utama-motor-h6.jpg"
     },
     {
+      "id": "60",
       "namaProduk": "Aki Motor Yamaha Mio Soul GTZ5S Accu Kering MF",
       "hargaProduk": "100.900",
       "urlProduk": "https://s.shopee.co.id/4ArBf9bPbY",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/060-aki-motor-kering-mf-gtz5s.jpg"
     },
     {
+      "id": "61",
       "namaProduk": "Sarung Motor Nmax Aerox Vario Beat Scoopy Lexi Mio Jupiter",
       "hargaProduk": "44.900",
       "urlProduk": "https://s.shopee.co.id/7KoDQxz62K",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/061-sarung-motor-nmax-aerox.jpg"
     },
     {
+      "id": "62",
       "namaProduk": "Helm Retro Cargloss Original (helm bogo) - Black Doff, Deep Blue, Green Army, DLL",
       "hargaProduk": "180.000",
       "urlProduk": "https://s.shopee.co.id/3LI4fbnRau",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/062-helm-retro-cargloss.png"
     },
     {
+      "id": "63",
       "namaProduk": "Akna Sarung Jok Motor Anti Cakar Kucing, Anti Air, Anti Panas",
       "hargaProduk": "20.000",
       "urlProduk": "https://s.shopee.co.id/7AUnEeCvAJ",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/063-sarung-jok-motor-amplas.png"
     },
     {
+      "id": "64",
       "namaProduk": "GTZ5S Aki Kering Motor Beat Vario 110 Scoopy Spacy Revo Blade Mio J Soul GT Xride Vixion Vega ZR Jupiter Z1",
       "hargaProduk": "115.000",
       "urlProduk": "https://s.shopee.co.id/AKRp0SfD9a",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/064-gtz5s-aki-kering.jpg"
     },
     {
-      "namaProduk": "KULIT JOK MOTOR \ud835\udc34\ud835\udc4e\ud835\udc46\ud835\udc42\ud835\udc42 TENDON \"SERAT KARBON\" BEAT/VARIO/SCOOPY/MIO/NMAX/AEROX",
+      "id": "65",
+      "namaProduk": "KULIT JOK MOTOR TENDON 'SERAT KARBON' BEAT/VARIO/SCOOPY/MIO/NMAX/AEROX",
       "hargaProduk": "42.000",
       "urlProduk": "https://s.shopee.co.id/8pd1DhOvGk",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/065-kulit-jok-motor-embos.png"
     },
     {
+      "id": "66",
       "namaProduk": "KACA HELM BOGO CEMBUNG HITAM / BENING",
       "hargaProduk": "19.999",
       "urlProduk": "https://s.shopee.co.id/11chSWDlD",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/066-kaca-helm-bogo-cembung.png"
     },
     {
+      "id": "67",
       "namaProduk": "FRAMELESS PLAT NOMOR MOTOR AKRILIK - KACA MIKA BENING - TEMPEL (SEPASANG DEPAN BELAKANG)",
       "hargaProduk": "35.000",
       "urlProduk": "https://s.shopee.co.id/qajgz2NKQ",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/067-frameless-plat-motor.jpg"
     },
     {
+      "id": "68",
       "namaProduk": "Helm Carglos Bogo Retro Original Sni",
       "hargaProduk": "175.000",
       "urlProduk": "https://s.shopee.co.id/5pzPeAAHRZ",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/068-helm-cargloss-bogo-retro.jpg"
     },
     {
+      "id": "69",
       "namaProduk": "KACA HELM BOGO DATAR (VISOR) HITAM & BENING",
       "hargaProduk": "19.999",
       "urlProduk": "https://s.shopee.co.id/60IpqSedqY",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/069-kaca-helm-bogo.jpg"
     },
     {
+      "id": "70",
       "namaProduk": "HUNTMAX GUB P30 Holder HP Motor Full Besi GPS Bracket Handphone",
       "hargaProduk": "24.999",
       "urlProduk": "https://s.shopee.co.id/AA8Oo73KZw",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/070-holder-hp-motor-full-besi.jpg"
     },
     {
+      "id": "71",
       "namaProduk": "Lampu Tembak Laser Led Mini D2 2 Warna Putih Kuning",
       "hargaProduk": "19.999",
       "urlProduk": "https://s.shopee.co.id/3fuv49x0Ed",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/071-lampu-tembak-laser-led.png"
     },
     {
+      "id": "72",
       "namaProduk": "Gas Spontan ACERBIS V2 Motor Universal (Free Kabel Gas)",
       "hargaProduk": "27.500",
       "urlProduk": "https://s.shopee.co.id/1qTGsmdEwt",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/072-gas-spontan-acerbis.png"
     },
     {
+      "id": "73",
       "namaProduk": "Helm Retro BRH 1 Hijab Wanita Bogo Dewasa SNI Kaca Datar Original",
       "hargaProduk": "129.000",
       "urlProduk": "https://s.shopee.co.id/70BN2GxqbO",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/073-helm-retro-brh-1-hijab.jpg"
     },
     {
+      "id": "74",
       "namaProduk": "( PAKET MURAH )MASTER REM RCB S1 PLUS KOPLING KOPLING R25",
       "hargaProduk": "69.000",
       "urlProduk": "https://s.shopee.co.id/6prwpxY9WL",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/074-master-rem-tabung-oval.jpg"
     },
     {
+      "id": "75",
       "namaProduk": "NIOSU CR7 Projie Biled Mini 2 Lensa Putih Kuning LED Motor",
       "hargaProduk": "40.000",
       "urlProduk": "https://s.shopee.co.id/AUlFCgkrHY",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/075-niosu-cr7-projie-biled.png"
     },
     {
+      "id": "76",
       "namaProduk": "Helm Anak Untuk Usia 1-5 Tahun Karakter Lucu SNI",
       "hargaProduk": "32.000",
       "urlProduk": "https://s.shopee.co.id/5ffzRncW5F",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/076-helm-anak-usia-1-5-tahun.png"
     },
     {
+      "id": "77",
       "namaProduk": "Sarung Jok Motor Bahan Anti Air Anti Panas Anti Sobek Pelindung Jok Motor Dari Kucing",
       "hargaProduk": "16.000",
       "urlProduk": "https://s.shopee.co.id/qajguZC1u",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/077-sarung-jok-motor-amplas-pasir.jpg"
     },
     {
+      "id": "78",
       "namaProduk": "Helm Bogo Retro Wanita Hijab SNI Kaca Cembung Helm Retro Dewasa",
       "hargaProduk": "47.000",
       "urlProduk": "https://s.shopee.co.id/6KvgF0sX0K",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/078-helm-retro-bogo-wanita.png"
     },
     {
+      "id": "79",
       "namaProduk": "Kaca Helm Bogo Visor Cembung Injak Bogo Retro",
       "hargaProduk": "19.999",
       "urlProduk": "https://s.shopee.co.id/60IpqOXJvm",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/079-kaca-helm-bogo-visor-flat.jpg"
     },
     {
+      "id": "80",
       "namaProduk": "Setiker Luximos/LX-Trix 5/6/7/8 - Stiker Pelindung Motor Anti Lecet",
       "hargaProduk": "38.000",
       "urlProduk": "https://s.shopee.co.id/BL2tfGLJT",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/080-stiker-luximos.jpg"
     },
     {
+      "id": "81",
       "namaProduk": "Spectro Roller Racing Vario 125 150 PCX ADV Genio Beat Scoopy (Ringan) 7-12 gram",
       "hargaProduk": "40.000",
       "urlProduk": "https://s.shopee.co.id/3LI4fTdc86",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/081-spectro-roller-racing.png"
     },
     {
+      "id": "82",
       "namaProduk": "HELM WANITA 2025 HIJAB - HELM RETRO BRH SNI KACA DATAR BOGO DEWASA",
       "hargaProduk": "129.000",
       "urlProduk": "https://s.shopee.co.id/4VU23bZRHc",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/082-helm-wanita-hijab-sni.jpg"
     },
     {
+      "id": "83",
       "namaProduk": "Saklar Set Mio Set Hazard Only & Lampu DRL (Sudah Termasuk Relay)",
       "hargaProduk": "55.000",
       "urlProduk": "https://s.shopee.co.id/70BN2BqixF",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/083-set-saklar-mio-hazard.png"
     },
     {
+      "id": "84",
       "namaProduk": "[PAKET MURAH SEPASANG] BAN LUAR MOTOR TUBELESS Ukuran 80/90 Ring 14 & 90/90 Ring 14 Merk Swallow | Ban Motor Matic | Ban Tubles Beat Vario Scoopy Mio",
       "hargaProduk": "180.000",
       "urlProduk": "https://s.shopee.co.id/8V0AowPI2p",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/084-ban-maxxis-diamond.png"
     },
     {
+      "id": "85",
       "namaProduk": "KYT - HELM KYOTO MERK MLA INK SNI FULL FACE HELM DEWASA",
       "hargaProduk": "209.000",
       "urlProduk": "https://s.shopee.co.id/8zwRPr1ngk",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/085-helm-kyt-kyoto.png"
     },
     {
+      "id": "86",
       "namaProduk": "GUB P30 Original Holder HP Motor Full Besi GPS Bracket Handphone",
       "hargaProduk": "24.999",
       "urlProduk": "https://s.shopee.co.id/803uE0iqv2",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/086-holder-hp-motor-full-besi.png"
     },
     {
+      "id": "87",
       "namaProduk": "RSV SC Hijab Retro Classic SNI - HELM BOGO WANITA TERBARU",
       "hargaProduk": "189.000",
       "urlProduk": "https://s.shopee.co.id/8fJb1EKexx",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/087-helm-half-face-hijab.png"
     },
     {
+      "id": "88",
       "namaProduk": "Aki Motor Yamaha Mio Sporty GTZ5S Accu Kering MF",
       "hargaProduk": "101.900",
       "urlProduk": "https://s.shopee.co.id/5L39366g01",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/088-aki-motor-gm5z-3b.jpg"
     },
     {
+      "id": "89",
       "namaProduk": "Lampu Tembak Laser Led D2 Mini 2 Warna Putih Kuning Motor Mobil",
       "hargaProduk": "20.000",
       "urlProduk": "https://s.shopee.co.id/7AUnESdhNP",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/089-lampu-tembak-laser-led-d2.png"
     },
     {
+      "id": "90",
       "namaProduk": "HUGGER AIRBLADE NEW/OLD VARIO 125/150 PCX ADV Vario 160 Spakbor Kolong",
       "hargaProduk": "38.000",
       "urlProduk": "https://s.shopee.co.id/8fJb1DCCBS",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/090-hugger-airblade-new.png"
     },
     {
+      "id": "91",
       "namaProduk": "Helm BogO Classic Full Leher Kulit Kaca Cembung Dan Datar",
       "hargaProduk": "55.000",
       "urlProduk": "https://s.shopee.co.id/4fnSFr1A90",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/091-helm-bogo-klasik-full-leher.jpg"
     },
     {
+      "id": "92",
       "namaProduk": "Kulit Jok Motor Jahit Tengah Serat Carbon ( Beat, Vario, Mio, Nmax, Aerox, Pcx, Genio, Scoopy )",
       "hargaProduk": "37.500",
       "urlProduk": "https://s.shopee.co.id/70BN28Vrum",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/092-kulit-jok-motor-jahit-tengah.png"
     },
     {
+      "id": "93",
       "namaProduk": "IBRIGHT Lampu Utama ZE0 LED Motor H4 H6 AC DC",
       "hargaProduk": "30.000",
       "urlProduk": "https://s.shopee.co.id/9AFrc6xZ88",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/093-lampu-utama-zeo-blue-lens.png"
     },
     {
+      "id": "94",
       "namaProduk": "Aki Motor Honda Beat Aki Kering Accu Kering MF GTZ5S",
       "hargaProduk": "99.999",
       "urlProduk": "https://s.shopee.co.id/6prwpokNgg",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/094-aki-kering-mf-gtz5s.jpg"
     },
     {
+      "id": "95",
       "namaProduk": "Dudukan Motor Spion Bahan Besi Handphone Holder HM20 Original",
       "hargaProduk": "14.995",
       "urlProduk": "https://s.shopee.co.id/3qELGIVsuu",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/095-dudukan-motor-spion-besi.jpg"
     },
     {
+      "id": "96",
       "namaProduk": "Xixi Case Holder HP Motor Waterproof Bracket HP GPS Handphone Anti Air 360 derajat",
       "hargaProduk": "32.200",
       "urlProduk": "https://s.shopee.co.id/1LX0HhAfm9",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/096-case-holder-hp-motor.jpg"
     },
     {
+      "id": "97",
       "namaProduk": "Aki Motor Honda Beat Vario 110 Scoopy Supra X 125 Revo Spacy Blade New Mega Pro Verza CRF Genio Aki Kering Accu Kering MF GTZ5S",
       "hargaProduk": "101.980",
       "urlProduk": "https://s.shopee.co.id/4fnSFobVGK",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/097-aki-kering-mf-gtz5s-honda.jpg"
     },
     {
+      "id": "98",
       "namaProduk": "footstep cnc full chrome pijakan kaki belakang Honda scoopy vario beat dll",
       "hargaProduk": "36.000",
       "urlProduk": "https://s.shopee.co.id/30fEGkHeji",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/098-footstep-cnc-full-chrome.png"
     },
     {
+      "id": "99",
       "namaProduk": "P30 Original Holder HP Motor Full Besi GPS Bracket Handphone",
       "hargaProduk": "24.999",
       "urlProduk": "https://s.shopee.co.id/4fnSFnkZLV",
       "gambarProduk": "https://raw.githubusercontent.com/shopeeolshop/shopeeolshop.github.io/refs/heads/main/gambar/otomotif/099-holder-hp-motor-full-besi.jpg"
     },
     {
+      "id": "100",
       "namaProduk": "Aki Motor GTZ5S MF Aki Kering Accu Kering Yamaha Mio J Mio Soul GT Xride Vixion Vega ZR Jupiter Z1 Honda Beat Scoopy Spacy Vario 110 Revo Blade",
       "hargaProduk": "99.999",
       "urlProduk": "https://s.shopee.co.id/qajgk8R0l",
