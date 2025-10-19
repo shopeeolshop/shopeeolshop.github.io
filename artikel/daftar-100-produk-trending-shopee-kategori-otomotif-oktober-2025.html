@@ -93,7 +93,7 @@
 			<figure>
 				<img src="/gambar/artikel/daftar-100-produk-trending-shopee-kategori-otomotif-oktober-2025.jpg" alt="Sampul Daftar 100 Produk Trending Shopee Kategori Otomotif Oktober 2025">
 			</figure>
-
+<!--
 <div class="barang"><h3><span>1. </span>FDR TL SPORT MP27 Ring 14 dan 17 Ban Motor "TUBELESS" RACING TIRE</h3>
 <p>365.690</p>
 <a href="https://s.shopee.co.id/gHJV9mu6z" target="_blank">https://s.shopee.co.id/gHJV9mu6z</a>
@@ -395,6 +395,59 @@
 <p>99.900</p>
 <a href="https://s.shopee.co.id/qajgk8R0l" target="_blank">https://s.shopee.co.id/qajgk8R0l</a>
 </div>
+-->
+			<div id="container-produk"></div>
+			<script>
+				// Nama file: script.js
+const container = document.getElementById('container-produk'); // Elemen HTML tempat data akan ditampilkan
+const jsonFilePath = '/json/otomotif.json'; // Lokasi direktori file JSON sesuai permintaan Anda
+
+fetch(jsonFilePath)
+  .then(response => {
+    if (!response.ok) {
+      // Melemparkan error jika status response bukan 200 OK
+      throw new Error(`Gagal memuat file: ${response.status} ${response.statusText}. Pastikan file berada di ${jsonFilePath}`);
+    }
+    return response.json();
+  })
+  .then(data => {
+    // Memastikan data memiliki properti 'otomotif' dan properti tersebut adalah array
+    const produkList = data.otomotif;
+    if (!Array.isArray(produkList)) {
+        throw new Error("Struktur JSON tidak valid. Harap pastikan ada array 'otomotif'.");
+    }
+
+    let htmlOutput = '';
+    
+    // Iterasi melalui array produk. Index array (0 hingga 99) digunakan untuk nomor urut (1 hingga 100).
+    produkList.forEach((produk, index) => {
+      const nomorUrut = index + 1; // Mendapatkan nomor urut dari 1 hingga 100
+
+      // Membuat template HTML sesuai format yang diminta
+      htmlOutput += `
+<div class="barang">
+  <img src="${produk.gambarProduk}" alt="${produk.namaProduk}" style="max-width:150px; max-height:150px;">
+  <h3><span>${nomorUrut}. </span>${produk.namaProduk}</h3>
+  <p>${produk.hargaProduk}</p>
+  <a href="${produk.urlProduk}" target="_blank" rel="nofollow">${produk.urlProduk}</a>
+</div>
+`;
+    });
+
+    // Menampilkan semua data ke dalam container HTML
+    if (container) {
+        container.innerHTML = htmlOutput;
+    } else {
+        console.error("Elemen dengan ID 'container-produk' tidak ditemukan.");
+    }
+  })
+  .catch(error => {
+    console.error('Terjadi kesalahan saat fetching data:', error);
+    if (container) {
+        container.innerHTML = `<p style="color: red;">Kesalahan: ${error.message}</p>`;
+    }
+  });
+			</script>
 
 </article>
 
