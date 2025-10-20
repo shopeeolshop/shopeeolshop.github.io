@@ -246,9 +246,14 @@ footer{
 }
 .main .article .barang{
 	margin-bottom: 24px;
+	width:100%;
+	max-width:450px;
+	padding: 8px;
+	border: 1px solid rgba(0,0,0,10%);
+	border-radius:2px;
 }
 .main .article .barang:nth-child(even) {
-  background: silver;
+  background: ghostwhite;
 }
 .main .article a{
 	color: blue;
@@ -566,6 +571,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
