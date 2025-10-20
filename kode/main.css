@@ -13,16 +13,14 @@
 	    -ms-user-select: none!important;
 	        user-select: none!important;
 }
-/*
 ::-moz-selection{
 	color: #fff;
-	background: #FFA500;
+	background: var(--orange);
 }
 ::selection{
 	color: #fff;
-	background: #FFA500;
+	background: var(--orange);
 }
-*/
 :root{
 	--orange: #FF4D00;
 	--box-shadow: 0 4px 16px rgba(0,0,0,.25);
@@ -232,6 +230,11 @@ footer{
 	font-size: 32px;
 	line-height: 40px;
 	color: navy;
+}
+.main .article figure img{
+	display:block;
+	max-width: 1080px;
+	height: auto;
 }
 .main .article figure figcaption{
 	margin-top: 8px;
@@ -555,6 +558,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
