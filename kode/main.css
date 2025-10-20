@@ -218,7 +218,6 @@ footer{
 
 /* ------------------------- main ------------------------- */
 .main{
-	/*width:100%;*/
 	padding: 3rem;
 	display: grid;
 	grid-template-columns: 2fr 1fr;
@@ -231,10 +230,6 @@ footer{
 	font-size: 32px;
 	line-height: 40px;
 	color: navy;
-	background: lavender;
-}
-.main .article .figure{
-	background: yellow;
 }
 .main .article figure figcaption{
 	margin-top: 8px;
@@ -244,7 +239,6 @@ footer{
 }
 .main .article #container-produk{
 	width:100%;
-	background: lime;
 }
 .main .article .barang{
 	width:auto;
@@ -567,6 +561,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
