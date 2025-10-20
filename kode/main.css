@@ -223,6 +223,9 @@ footer{
 	grid-template-columns: 2fr 1fr;
 	grid-gap: 24px 16px;
 }
+.main .article{
+	
+}
 .main .article > *:not(:last-child){
 	margin-bottom: 20px;
 }
@@ -349,6 +352,9 @@ footer{
 @media screen and (max-width: 500px){
 	.main{
 		padding: 3rem 1rem;
+	}
+	.main .article{
+		padding: 0 1rem;
 	}
 	.main .article .table thead tr th,
 	.main .article .table tbody tr td{
@@ -559,6 +565,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
