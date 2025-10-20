@@ -233,8 +233,10 @@ footer{
 }
 .main .article figure img{
 	display:block;
+	width:100%;
 	max-width: 1080px;
 	height: auto;
+	margin: auto;
 }
 .main .article figure figcaption{
 	margin-top: 8px;
@@ -337,6 +339,9 @@ footer{
 		grid-template-columns: 1fr;
 		padding: 3rem 2rem;
 	}
+	.main .article figure img{
+		max-width: 750px;
+	}
 	.main .aside .artikel-baru a img{
 		max-width: 120px;
 	}
@@ -348,6 +353,9 @@ footer{
 @media screen and (max-width: 500px){
 	.main{
 		padding: 3rem 1rem;
+	}
+	.main .article figure img{
+		max-width: 450px;
 	}
 	.main .article .table thead tr th,
 	.main .article .table tbody tr td{
@@ -558,6 +566,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
