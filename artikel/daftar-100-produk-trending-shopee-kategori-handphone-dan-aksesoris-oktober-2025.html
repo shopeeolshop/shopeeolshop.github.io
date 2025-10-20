@@ -97,7 +97,7 @@ fetch(jsonFilePath)
   })
   .then(data => {
     // Memeriksa apakah data adalah array, atau array di dalam kunci "handphone-dan-aksesoris"
-    const produkList = Array.isArray(data) ? data : data.handphone-dan-aksesoris; 
+    const produkList = Array.isArray(data) ? data : data['handphone dan aksesoris'];
     
     if (!Array.isArray(produkList)) {
         throw new Error("Struktur JSON tidak valid. Pastikan JSON adalah array produk atau memiliki kunci 'handphone-dan-aksesoris' yang berisi array.");
