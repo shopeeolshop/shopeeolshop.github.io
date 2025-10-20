@@ -218,6 +218,7 @@ footer{
 
 /* ------------------------- main ------------------------- */
 .main{
+	width:100%;
 	padding: 3rem;
 	display: grid;
 	grid-template-columns: 2fr 1fr;
@@ -559,6 +560,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
