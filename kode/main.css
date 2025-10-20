@@ -238,13 +238,13 @@ footer{
 	text-align: center;
 	color: #999;
 }
+.main .article #container-produk{
+	width:100%;
+}
 .main .article .barang{
+	width:auto;
 	margin-bottom: 24px;
 	padding: 8px;
-	/*
-	border: 1px solid rgba(0,0,0,10%);
-	border-radius:2px;
-	*/
 	box-shadow: 0 0 16px rgba(0,0,0,.5);
 }
 .main .article a{
@@ -562,6 +562,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
