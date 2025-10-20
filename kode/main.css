@@ -223,9 +223,6 @@ footer{
 	grid-template-columns: 2fr 1fr;
 	grid-gap: 24px 16px;
 }
-.main .article{
-	
-}
 .main .article > *:not(:last-child){
 	margin-bottom: 20px;
 }
@@ -245,13 +242,8 @@ footer{
 	padding: 8px;
 	border: 1px solid rgba(0,0,0,10%);
 	border-radius:2px;
-	box-shadow: 0 0 16px rgba (0,0,0,.5);
+	box-shadow: 0 0 16px rgba(0,0,0,.5);
 }
-/*
-.main .article .barang:nth-child(even) {
-  background: ghostwhite;
-}
-*/
 .main .article a{
 	color: blue;
 }
@@ -353,9 +345,11 @@ footer{
 	.main{
 		padding: 3rem 1rem;
 	}
+	/*
 	.main .article{
 		padding: 0 1rem;
 	}
+	*/
 	.main .article .table thead tr th,
 	.main .article .table tbody tr td{
 		padding: 16px 4px;
@@ -565,6 +559,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
