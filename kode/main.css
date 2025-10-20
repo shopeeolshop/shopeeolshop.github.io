@@ -246,12 +246,16 @@ footer{
 	color: #999;
 }
 .main .article .barang{
+	overflow-wrap: break-word!important;
 	margin-bottom: 24px;
 	width:100%;
 	max-width:450px;
 	padding: 8px;
 	border: 1px solid rgba(0,0,0,10%);
 	border-radius:2px;
+}
+.main .article .barang h3{
+	white-space: nowrap!important;
 }
 .main .article .barang:nth-child(even) {
   background: ghostwhite;
@@ -572,6 +576,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
