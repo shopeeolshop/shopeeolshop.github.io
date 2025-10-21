@@ -25,6 +25,7 @@ function displayLatestArticles(articles) {
 fetchLatestArticles();
 
 // *************** galeri klien ***************
+/*
 const klienSlider = new Swiper(".klien-slider", {
     loop: true,
     grabCursor: true,
@@ -44,6 +45,7 @@ const klienSlider = new Swiper(".klien-slider", {
         delay: 3000,
     },
 });
+*/
 
 // *************** artikel section ***************
 const artikelTerbaruSlider = new Swiper(".container-slider", {
@@ -63,6 +65,6 @@ const artikelTerbaruSlider = new Swiper(".container-slider", {
     },
     autoplay: {
         delay: 2500,
-    },
-
+    }
 });
+
