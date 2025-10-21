@@ -230,9 +230,7 @@ footer{
 	font-size: 32px;
 	line-height: 40px;
 	color: navy;
-}
-.main .article figure{
-	margin: 32px auto;
+	margin-bottom: 32px;
 }
 .main .article figure figcaption{
 	margin-top: 8px;
@@ -242,6 +240,7 @@ footer{
 }
 .main .article #container-produk{
 	width:100%;
+	margin-top: 32px;
 }
 .main .article #container-produk .barang{
 	display: -webkit-box;
@@ -571,6 +570,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
