@@ -65,6 +65,7 @@ const artikelTerbaruSlider = new Swiper(".container-slider", {
     },
     autoplay: {
         delay: 2500,
-    }
+    },
 });
+
 
