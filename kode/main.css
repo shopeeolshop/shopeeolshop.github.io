@@ -249,11 +249,8 @@ footer{
 	padding: 8px;
 	box-shadow: 0 0 16px rgba(0,0,0,.5);
 }
-.main .article a{
+.main .article #container-produk .barang i{
 	color: blue;
-}
-.main .article a:hover{
-	color: darkblue;
 }
 .main .article ul li:not(:last-child),
 .main .article ol li:not(:last-child){
@@ -564,6 +561,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
