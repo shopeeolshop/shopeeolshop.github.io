@@ -152,51 +152,6 @@
 	}
 }
 
-/* ------------------------- manfaat section ------------------------- */
-.manfaat{
-	background: ghostwhite;
-}
-.manfaat .ul{
-	margin-top: 2rem;
-	list-style: none;
-}
-.manfaat .ul li{
-	padding: 2rem 1rem;
-	text-align: center;
-	background: #fff;
-	-webkit-box-shadow: 0 2px 8px rgba(0,0,0,.25);
-	        box-shadow: 0 2px 8px rgba(0,0,0,.25);
-}
-.manfaat .ul li span{
-	color: var(--biru);
-	font-size: 4rem;
-}
-.manfaat .ul li p{
-	margin-top: 1rem;
-}
-
-/* ------------------------- biaya section ------------------------- */
-.biaya .container .box img{
-	height: auto;
-	max-width: 400px;
-	max-height: 300px;
-	margin: auto;
-}
-.biaya .container .box p:nth-child(2){
-	margin-bottom: 20px;
-}
-.biaya .container .box .btn span{
-	margin-right: 8px;
-}
-@media screen and (max-width: 800px){
-	.biaya .container.grid{
-		grid-template-columns: 1fr;
-	}
-	.biaya .container .box img{
-		margin: auto;
-	}
-}
-
 /* ------------------------- gallery section ------------------------- */
 .gallery{
 	background: ghostwhite;
@@ -347,72 +302,7 @@
   }
 }
 
-/* ------------------------- contact section ------------------------- */
-.contact .container .box:first-child{
-	display: -ms-grid;
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-	grid-gap: 1rem;
-}
-.contact .container .box:first-child a{
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-pack: center;
-	   -ms-flex-pack: center;
-	 justify-content: center;
-	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
-	background: ghostwhite;
-	-webkit-box-shadow: 0 2px 8px gainsboro;
-	        box-shadow: 0 2px 8px gainsboro;
-	padding: 1rem;
-	gap: 0 8px;
-	color: var(--biru);
-}
-.contact .container .box:first-child a:hover{
-	background: #333;
-	color: #fff;
-	border-radius: 4px;
-	-webkit-box-shadow: 0 2px 8px grey;
-	        box-shadow: 0 2px 8px grey;
-}
-.contact .container .box:first-child a span{
-	font-size: 1rem;
-}
-.contact .container .box:last-child .grid{
-	margin-top: 20px;
-	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-	grid-gap: 1rem;
-}
-.contact .container .box:last-child .grid a{
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-pack: center;
-	   -ms-flex-pack: center;
-	 justify-content: center;
-	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
-	background: ghostwhite;
-	-webkit-box-shadow: 0 2px 8px gainsboro;
-	        box-shadow: 0 2px 8px gainsboro;
-	padding: 1rem;
-	gap: 0 8px;
-	color: var(--biru);
-}
-.contact .container .box:last-child .grid a:hover{
-	background: #333;
-	color: #fff;
-	border-radius: 4px;
-	-webkit-box-shadow: 0 2px 8px grey;
-	        box-shadow: 0 2px 8px grey;
-}
-.contact .maps iframe{
-	margin-top: 2rem;
-	width: 100%;
-	height: 450px;
+/* ------------------------- kumpulan artikel pada index ------------------------- */
+.artikel-section .box-slider-artikel .content-slider-artikel > *{color: #333;}
+.artikel-section .box-slider-artikel .content-slider-artikel h3{margin: 16px 0;}
 
-}
