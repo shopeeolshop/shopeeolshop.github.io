@@ -259,10 +259,6 @@ footer{
 	padding: 8px;
 	box-shadow: 0 0 16px rgba(0,0,0,.5);
 }
-.main .article #container-produk .barang img{
-	display: block!important;
-	margin: auto;
-}
 .main .article #container-produk .barang i{
 	color: blue;
 }
@@ -575,6 +571,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
