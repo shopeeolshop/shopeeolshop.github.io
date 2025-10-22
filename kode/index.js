@@ -3,9 +3,16 @@ async function fetchLatestArticles() {
     try {
         const response = await fetch('/json/artikel.json');
         const data = await response.json();
-        // Mengambil 5 artikel terbaru dan membalik urutannya
-        const latestArticles = data.daftar_artikel.slice(-5).reverse();
+        
+        // MENGUBAH slice(-5) menjadi slice(-6) atau lebih
+        // Solusi 1: Ambil 6 artikel agar looping berfungsi di layar besar (slidesPerView: 3)
+        const latestArticles = data.daftar_artikel.slice(-6).reverse(); 
+        
         displayLatestArticles(latestArticles);
+        
+        // Panggil inisialisasi Swiper HANYA setelah konten dimuat
+        initializeSwiper(); 
+
     } catch (error) {
         console.error('Terjadi kesalahan saat mengambil artikel:', error);
     }
@@ -22,28 +29,28 @@ function displayLatestArticles(articles) {
     `).join('');
 }
 
+// Tambahkan fungsi terpisah untuk inisialisasi Swiper
+function initializeSwiper() {
+    // *************** artikel section ***************
+    const artikelTerbaruSlider = new Swiper(".container-slider", {
+        loop: true,
+        grabCursor: true,
+        spaceBetween: 16,
+        breakpoints: {
+            0: {
+                slidesPerView: 1,
+            },
+            500: {
+                slidesPerView: 2,
+            },
+            800: {
+                slidesPerView: 3,
+            },
+        },
+        autoplay: {
+            delay: 2500,
+        },
+    });
+}
+
 fetchLatestArticles();
-
-// *************** artikel section ***************
-const artikelTerbaruSlider = new Swiper(".container-slider", {
-    loop: true,
-    grabCursor: true,
-    spaceBetween: 16,
-    breakpoints: {
-        0: {
-            slidesPerView: 1,
-        },
-        500: {
-            slidesPerView: 2,
-        },
-        800: {
-            slidesPerView: 3,
-        },
-    },
-    autoplay: {
-        delay: 2500,
-    },
-});
-
-
-
