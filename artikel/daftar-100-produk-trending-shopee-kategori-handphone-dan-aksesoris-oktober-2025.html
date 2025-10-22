@@ -106,15 +106,8 @@ fetch(jsonFilePath)
     // Iterasi melalui array produk. 
     produkList.forEach((produk, index) => {
       // Membuat template HTML dengan menggunakan produk.id
-      htmlOutput += `
-<a class="barang" href="${produk.urlProduk}" target="_blank" rel="nofollow">
-  <img src="${produk.gambarProduk}" alt="${produk.namaProduk}" style="max-width:150px; max-height:150px;">
-  <h3><span>${produk.id}. </span>${produk.namaProduk}</h3>
-  <p>${produk.hargaProduk}</p>
-  <i>${produk.urlProduk}</i>
-</a>
-`;
-    });
+      htmlOutput += `htmlOutput += `<a class="barang" href="${produk.urlProduk}" target="_blank" rel="nofollow"><div class="flex-center"><img src="${produk.gambarProduk}" alt="${produk.namaProduk}" class="img150"></div><h3><span>${produk.id}. </span>${produk.namaProduk}</h3><p>${produk.hargaProduk}</p><i>${produk.urlProduk}</i></a>`;
+            });
 
     // Menampilkan semua data ke dalam container HTML
     if (container) {
