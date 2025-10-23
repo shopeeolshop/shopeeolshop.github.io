@@ -524,7 +524,9 @@ body > .section ol > li::marker{
 	transform: translateX(-50%);
 	background: #fff;
 	z-index: 103;
-	padding: 1rem 3rem;
+	/* padding: 1rem 3rem; */
+	padding: 1rem 3rem 6rem; /* baru */
+	background: yellow; /* baru */
 	transition: .3s all ease-in-out;
 	visibility: hidden;
 	opacity: 0;
@@ -587,6 +589,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
