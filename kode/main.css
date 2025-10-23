@@ -543,6 +543,7 @@ body > .section ol > li::marker{
 }
 .box-search .hasil-pencarian{
 	margin-top: 24px;
+	margin-bottom: 5rem; /* baru */
 	max-height: 75vh;
 	overflow-y: auto;
 	overflow-x: hidden;
@@ -559,6 +560,7 @@ body > .section ol > li::marker{
 .box-search .hasil-pencarian .ditemukan{
 	margin-top: 20px;
 	display: block;
+	margin-bottom: 5rem; /* baru */
 }
 .box-search .hasil-pencarian .ditemukan img{
 	max-width: 300px;
@@ -585,6 +587,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
