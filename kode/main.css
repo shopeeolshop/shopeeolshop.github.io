@@ -561,7 +561,6 @@ body > .section ol > li::marker{
 	border: 1px solid gainsboro;
 }
 .box-search .hasil-pencarian .ditemukan{
-	margin-top: 20px;
 	display: block;
 	background: lime; /* baru */
 }
@@ -574,9 +573,9 @@ box-search .hasil-pencarian .ditemukan:last-child{
 }
 .box-search .hasil-pencarian .ditemukan b{
 	color: var(--orange);
-	margin-top: 16px;
+	margin-top: 10px;
 	display: block;
-	line-height: 24px;
+	line-height: 18px;
 }
 /* responsive */
 @media screen and (max-width: 800px){
@@ -593,6 +592,7 @@ box-search .hasil-pencarian .ditemukan:last-child{
 	}
 
 }
+
 
 
 
