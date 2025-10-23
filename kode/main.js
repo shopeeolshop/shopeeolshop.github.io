@@ -45,7 +45,7 @@ kolomTelusur.addEventListener("input", () => {
     fetchProducts(query);
   } else {
     // Tampilkan pesan atau kosongkan jika query terlalu pendek
-    hasilPencarian.innerHTML = query.length > 0 ? "<p>Masukkan minimal 3 huruf untuk mencari.</p>" : "";
+    hasilPencarian.innerHTML = query.length > 0 ? "<p>Masukkan minimal 1 kata. Contoh: tas, sabun, kaca dll.</p>" : "";
   }
 });
 
@@ -73,7 +73,6 @@ async function fetchProducts(query) {
     let allProducts = [];
     dataArray.forEach(data => {
       // Kita perlu mengidentifikasi kunci array yang berisi produk
-      // berdasarkan data contoh yang Anda berikan.
       for (const key in data) {
         if (Array.isArray(data[key])) {
           // Tambahkan kategori/URL asal ke objek produk (opsional, untuk debugging)
@@ -100,9 +99,7 @@ async function fetchProducts(query) {
   }
 }
 
-/**
- * Menampilkan hasil produk yang ditemukan.
- */
+/* Menampilkan hasil produk yang ditemukan. */
 function displayResults(products) {
   if (products.length > 0) {
     hasilPencarian.innerHTML = products.map(product => `
@@ -118,9 +115,6 @@ function displayResults(products) {
     hasilPencarian.innerHTML = "<p>Tidak ada produk yang cocok dengan pencarian.</p>";
   }
 }
-
-
-
 
 
 // *************** footer credit ***************
@@ -143,6 +137,7 @@ document.body.addEventListener('keydown', event => {
 });
 
 */
+
 
 
 
