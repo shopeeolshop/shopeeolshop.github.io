@@ -559,6 +559,8 @@ body > .section ol > li::marker{
 }
 .box-search .hasil-pencarian .ditemukan{
 	display: block;
+	color: #333;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 .box-search .hasil-pencarian .ditemukan img{
 	max-width: 100px;
@@ -583,6 +585,7 @@ body > .section ol > li::marker{
 		width: 5px;
 	}
 }
+
 
 
 
