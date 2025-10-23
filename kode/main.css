@@ -550,7 +550,7 @@ body > .section ol > li::marker{
 	overflow-x: hidden;
 	scroll-behavior: smooth;
 	scroll-padding-top: 5rem;
-	backround: lavender; /* baru */
+	background: lavender; /* baru */
 }
 .box-search .hasil-pencarian::-webkit-scrollbar{
 	width: 10px;
@@ -592,5 +592,6 @@ box-search .hasil-pencarian .ditemukan:last-child{
 	}
 
 }
+
 
 
