@@ -566,7 +566,7 @@ body > .section ol > li::marker{
 	background: lime; /* baru */
 }
 box-search .hasil-pencarian .ditemukan:last-child{
-	margin-bottom: 5rem!important; /* baru */
+	margin-bottom: 18rem!important; /* baru */
 }
 .box-search .hasil-pencarian .ditemukan img{
 	max-width: 300px;
@@ -593,6 +593,7 @@ box-search .hasil-pencarian .ditemukan:last-child{
 	}
 
 }
+
 
 
 
