@@ -363,8 +363,8 @@ footer{
 		max-width: 120px;
 	}
 	.main .aside .artikel-baru a b{
-		font-size: 12px;
-		line-height: 18px;
+		font-size: 14px;
+		line-height: 20px;
 	}
 }
 @media screen and (max-width: 500px){
@@ -585,6 +585,7 @@ body > .section ol > li::marker{
 		width: 5px;
 	}
 }
+
 
 
 
