@@ -109,8 +109,8 @@ function displayResults(products) {
       <a href="${product.urlProduk}" class="ditemukan" target="_blank">
         <img src="${product.gambarProduk}" alt="Gambar produk">
         <div class="info-produk">
-          <b>${product.namaProduk}</b>
           <p class="harga">Rp ${product.hargaProduk}</p>
+          <b>${product.namaProduk}</b>
         </div>
       </a>
     `).join('');
@@ -143,5 +143,6 @@ document.body.addEventListener('keydown', event => {
 });
 
 */
+
 
 
