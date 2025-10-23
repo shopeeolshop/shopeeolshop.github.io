@@ -545,7 +545,8 @@ body > .section ol > li::marker{
 }
 .box-search .hasil-pencarian{
 	margin-top: 24px;
-	max-height: 75vh;
+	/*max-height: 75vh;*/
+	max-height: 65vh; /* baru */
 	overflow-y: auto;
 	overflow-x: hidden;
 	scroll-behavior: smooth;
@@ -592,6 +593,7 @@ box-search .hasil-pencarian .ditemukan:last-child{
 	}
 
 }
+
 
 
 
