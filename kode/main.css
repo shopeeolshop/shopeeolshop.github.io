@@ -524,9 +524,7 @@ body > .section ol > li::marker{
 	transform: translateX(-50%);
 	background: #fff;
 	z-index: 103;
-	/* padding: 1rem 3rem; */
-	padding: 1rem 3rem 9rem; /* baru */
-	background: yellow; /* baru */
+	padding: 1rem 3rem;
 	transition: .3s all ease-in-out;
 	visibility: hidden;
 	opacity: 0;
@@ -545,14 +543,12 @@ body > .section ol > li::marker{
 }
 .box-search .hasil-pencarian{
 	margin-top: 24px;
-	/*max-height: 75vh;*/
-	max-height: 75vh; /* baru */
+	max-height: 75vh;
 	padding-bottom: 15rem!important; /*baru*/
 	overflow-y: auto;
 	overflow-x: hidden;
 	scroll-behavior: smooth;
 	scroll-padding-top: 5rem;
-	background: lavender; /* baru */
 }
 .box-search .hasil-pencarian::-webkit-scrollbar{
 	width: 10px;
@@ -563,7 +559,6 @@ body > .section ol > li::marker{
 }
 .box-search .hasil-pencarian .ditemukan{
 	display: block;
-	background: lime; /* baru */
 }
 .box-search .hasil-pencarian .ditemukan img{
 	max-width: 300px;
@@ -588,6 +583,6 @@ body > .section ol > li::marker{
 	.box-search .hasil-pencarian::-webkit-scrollbar{
 		width: 5px;
 	}
-
 }
+
 
