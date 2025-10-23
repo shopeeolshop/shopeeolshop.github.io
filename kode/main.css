@@ -347,8 +347,8 @@ footer{
 	height: auto;
 }
 .main .aside .artikel-baru a b{
-	font-size: 14px;
-	line-height: 20px;
+	font-size: 16px;
+	line-height: 22px;
 }
 .main .aside .artikel-baru a:hover b{
 	color: navy;
@@ -561,14 +561,13 @@ body > .section ol > li::marker{
 	display: block;
 }
 .box-search .hasil-pencarian .ditemukan img{
-	max-width: 300px;
+	max-width: 100px;
 	height: auto;
 }
 .box-search .hasil-pencarian .ditemukan b{
-	color: var(--orange);
 	margin-top: 8px;
-	display: block;
-	line-height: 18px;
+	font-size: 14px;
+	line-height: 20px;
 }
 /* responsive */
 @media screen and (max-width: 800px){
@@ -584,5 +583,6 @@ body > .section ol > li::marker{
 		width: 5px;
 	}
 }
+
 
 
