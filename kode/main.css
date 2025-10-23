@@ -525,7 +525,7 @@ body > .section ol > li::marker{
 	background: #fff;
 	z-index: 103;
 	/* padding: 1rem 3rem; */
-	padding: 1rem 3rem 6rem; /* baru */
+	padding: 1rem 3rem 9rem; /* baru */
 	background: yellow; /* baru */
 	transition: .3s all ease-in-out;
 	visibility: hidden;
@@ -545,7 +545,6 @@ body > .section ol > li::marker{
 }
 .box-search .hasil-pencarian{
 	margin-top: 24px;
-	margin-bottom: 5rem; /* baru */
 	max-height: 75vh;
 	overflow-y: auto;
 	overflow-x: hidden;
@@ -562,6 +561,8 @@ body > .section ol > li::marker{
 .box-search .hasil-pencarian .ditemukan{
 	margin-top: 20px;
 	display: block;
+}
+box-search .hasil-pencarian .ditemukan:last-child{
 	margin-bottom: 5rem; /* baru */
 }
 .box-search .hasil-pencarian .ditemukan img{
@@ -589,34 +590,4 @@ body > .section ol > li::marker{
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
