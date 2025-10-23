@@ -11,15 +11,13 @@ nextHeader.style.marginTop = "60px";
 
 
 // *************** Pencarian ***************
-// *************** Pencarian ***************
 const ikonTelusur = document.querySelector(".search");
 const boxTelusur = document.querySelector(".box-search");
 const kolomTelusur = document.querySelector(".kolom-telusur");
 const hasilPencarian = document.querySelector(".hasil-pencarian");
 
-// Daftar semua URL JSON yang ingin dicari
+// Daftar semua URL JSON produk yang ingin dicari
 const jsonUrls = [
-  '/json/artikel.json',
   '/json/otomotif.json',
   '/json/perawatan-dan-kecantikan.json',
   '/json/handphone-dan-aksesoris.json'
@@ -42,19 +40,19 @@ window.addEventListener("click", e => {
 });
 
 kolomTelusur.addEventListener("input", () => {
-  const query = kolomTelusur.value.toLowerCase().trim(); // Tambah .trim()
-  if (query.length > 0) {
-    fetchArticles(query);
+  const query = kolomTelusur.value.toLowerCase().trim();
+  if (query.length >= 3) { // Rekomendasi: Mulai pencarian setelah 3 karakter
+    fetchProducts(query);
   } else {
-    hasilPencarian.innerHTML = "";
+    // Tampilkan pesan atau kosongkan jika query terlalu pendek
+    hasilPencarian.innerHTML = query.length > 0 ? "<p>Masukkan minimal 3 huruf untuk mencari.</p>" : "";
   }
 });
 
 /**
- * Mengambil data dari semua URL JSON, menggabungkannya, dan memfilter berdasarkan query.
- * Catatan: Asumsi struktur JSON adalah { "daftar_artikel": [...] } untuk semua file.
+ * Mengambil data dari semua URL JSON produk, menggabungkannya, dan memfilter berdasarkan query.
  */
-async function fetchArticles(query) {
+async function fetchProducts(query) {
   try {
     // 1. Ambil semua file JSON secara paralel
     const fetchPromises = jsonUrls.map(url => fetch(url));
@@ -71,41 +69,56 @@ async function fetchArticles(query) {
     const dataPromises = responses.map(response => response.json());
     const dataArray = await Promise.all(dataPromises);
 
-    // 3. Gabungkan semua daftar artikel ke dalam satu array
-    let allArticles = [];
+    // 3. Gabungkan semua data produk ke dalam satu array
+    let allProducts = [];
     dataArray.forEach(data => {
-      // Asumsikan kunci array adalah 'daftar_artikel'
-      if (data && Array.isArray(data.daftar_artikel)) {
-        allArticles = allArticles.concat(data.daftar_artikel);
+      // Kita perlu mengidentifikasi kunci array yang berisi produk
+      // berdasarkan data contoh yang Anda berikan.
+      for (const key in data) {
+        if (Array.isArray(data[key])) {
+          // Tambahkan kategori/URL asal ke objek produk (opsional, untuk debugging)
+          const categoryProducts = data[key].map(product => ({
+              ...product,
+              kategori: key // Menambahkan kategori asal produk
+          }));
+          allProducts = allProducts.concat(categoryProducts);
+        }
       }
     });
     
-    // 4. Filter artikel gabungan
-    const filteredArticles = allArticles.filter(article =>
-      article.judul.toLowerCase().includes(query)
+    // 4. Filter produk gabungan berdasarkan namaProduk
+    const filteredProducts = allProducts.filter(product =>
+      product.namaProduk && product.namaProduk.toLowerCase().includes(query)
     );
 
     // 5. Tampilkan hasil
-    displayResults(filteredArticles);
+    displayResults(filteredProducts);
 
   } catch (error) {
-    console.error('Terjadi kesalahan saat mengambil atau memproses artikel:', error);
+    console.error('Terjadi kesalahan saat mengambil atau memproses data produk:', error);
     hasilPencarian.innerHTML = `<p style="color: red;">Error: Gagal memuat data pencarian.</p>`;
   }
 }
 
-function displayResults(articles) {
-  if (articles.length > 0) {
-    hasilPencarian.innerHTML = articles.map(article => `
-      <a href="${article.url}" class="ditemukan">
-        <img src="${article.alamat_gambar}" alt="Gambar artikel">
-        <b>${article.judul}</b>
+/**
+ * Menampilkan hasil produk yang ditemukan.
+ */
+function displayResults(products) {
+  if (products.length > 0) {
+    hasilPencarian.innerHTML = products.map(product => `
+      <a href="${product.urlProduk}" class="ditemukan" target="_blank">
+        <img src="${product.gambarProduk}" alt="Gambar produk">
+        <div class="info-produk">
+          <b>${product.namaProduk}</b>
+          <p class="harga">Rp ${product.hargaProduk}</p>
+        </div>
       </a>
     `).join('');
   } else {
-    hasilPencarian.innerHTML = "<p>Tidak ada artikel yang cocok dengan pencarian.</p>";
+    hasilPencarian.innerHTML = "<p>Tidak ada produk yang cocok dengan pencarian.</p>";
   }
 }
+
 
 
 
@@ -130,4 +143,5 @@ document.body.addEventListener('keydown', event => {
 });
 
 */
+
 
