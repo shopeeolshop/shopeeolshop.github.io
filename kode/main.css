@@ -546,8 +546,8 @@ body > .section ol > li::marker{
 .box-search .hasil-pencarian{
 	margin-top: 24px;
 	/*max-height: 75vh;*/
-	max-height: 65vh; /* baru */
-	padding-bottom: 3rem; /*baru*/
+	max-height: 75vh; /* baru */
+	padding-bottom: 9rem; /*baru*/
 	overflow-y: auto;
 	overflow-x: hidden;
 	scroll-behavior: smooth;
@@ -564,9 +564,6 @@ body > .section ol > li::marker{
 .box-search .hasil-pencarian .ditemukan{
 	display: block;
 	background: lime; /* baru */
-}
-box-search .hasil-pencarian .ditemukan:last-child{
-	margin-bottom: 18rem!important; /* baru */
 }
 .box-search .hasil-pencarian .ditemukan img{
 	max-width: 300px;
@@ -593,6 +590,7 @@ box-search .hasil-pencarian .ditemukan:last-child{
 	}
 
 }
+
 
 
 
