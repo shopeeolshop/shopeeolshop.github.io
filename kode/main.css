@@ -547,7 +547,7 @@ body > .section ol > li::marker{
 	margin-top: 24px;
 	/*max-height: 75vh;*/
 	max-height: 75vh; /* baru */
-	padding-bottom: 9rem; /*baru*/
+	padding-bottom: 9rem!important; /*baru*/
 	overflow-y: auto;
 	overflow-x: hidden;
 	scroll-behavior: smooth;
@@ -590,6 +590,7 @@ body > .section ol > li::marker{
 	}
 
 }
+
 
 
 
