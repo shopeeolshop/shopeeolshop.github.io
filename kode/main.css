@@ -547,7 +547,7 @@ body > .section ol > li::marker{
 	margin-top: 24px;
 	/*max-height: 75vh;*/
 	max-height: 65vh; /* baru */
-	padding-bottom: 3 rem; /*baru*/
+	padding-bottom: 3rem; /*baru*/
 	overflow-y: auto;
 	overflow-x: hidden;
 	scroll-behavior: smooth;
@@ -566,7 +566,7 @@ body > .section ol > li::marker{
 	background: lime; /* baru */
 }
 box-search .hasil-pencarian .ditemukan:last-child{
-	margin-bottom: 5rem; /* baru */
+	margin-bottom: 5rem!important; /* baru */
 }
 .box-search .hasil-pencarian .ditemukan img{
 	max-width: 300px;
@@ -593,6 +593,7 @@ box-search .hasil-pencarian .ditemukan:last-child{
 	}
 
 }
+
 
 
 
