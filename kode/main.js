@@ -20,7 +20,8 @@ const hasilPencarian = document.querySelector(".hasil-pencarian");
 const jsonUrls = [
   '/json/otomotif.json',
   '/json/perawatan-dan-kecantikan.json',
-  '/json/handphone-dan-aksesoris.json'
+  '/json/handphone-dan-aksesoris.json',
+  '/json/elektronik.json'
 ];
 
 window.addEventListener("click", e => {
@@ -137,6 +138,7 @@ document.body.addEventListener('keydown', event => {
 });
 
 */
+
 
 
 
