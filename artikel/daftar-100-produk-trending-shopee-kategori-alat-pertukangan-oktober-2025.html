@@ -101,9 +101,9 @@ fetch(jsonFilePath)
   })
   .then(data => {
     // Memastikan data memiliki properti 'alat-pertukangan' dan properti tersebut adalah array
-    const produkList = Array.isArray(data) ? data : data['perlengkapan rumah'];
+    const produkList = Array.isArray(data) ? data : data['alat pertukangan'];
     if (!Array.isArray(produkList)) {
-        throw new Error("Struktur JSON tidak valid. Harap pastikan ada array 'perlengkapan rumah'.");
+        throw new Error("Struktur JSON tidak valid. Harap pastikan ada array 'alat pertukangan'.");
     }
 
     let htmlOutput = '';
