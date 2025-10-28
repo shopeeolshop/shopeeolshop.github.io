@@ -140,6 +140,16 @@ ol > li::marker{
 	        gap: 1rem;
 	        flex-direction: column;
 }
+.flex-down{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	        gap: 1rem;
+	        flex-direction: column;
+}
 .card{
 	padding: 1rem;
 	border-radius: 2px;
@@ -586,6 +596,7 @@ body > .section ol > li::marker{
 		width: 5px;
 	}
 }
+
 
 
 
