@@ -1,4 +1,4 @@
-// // *************** aside artikel ***************
+// *************** aside artikel ***************
 fetch('/json/artikel.json')
   .then(response => response.json())
   .then(data => {
@@ -6,7 +6,8 @@ fetch('/json/artikel.json')
     let html = '';
 
     // Membalik urutan array daftar_artikel
-    const reversedArticles = data.daftar_artikel.reverse();
+    // const reversedArticles = data.daftar_artikel.reverse(); /* semua artkel */
+    const reversedArticles = data.daftar_artikel.reverse().slice(0, 10); /* hanya 10 */
 
     reversedArticles.forEach(artikel => {
       html += `
@@ -21,4 +22,5 @@ fetch('/json/artikel.json')
     console.error('Error:', error);
 
   });
+
 
