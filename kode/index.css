@@ -199,8 +199,7 @@
 .home-artikel .container .btn span{
 	margin-right: 8px;
 }
-#kumpulan-artikel{
-	background: yellow;
+.kumpulan-artikel{
 	display: -ms-grid;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -209,10 +208,10 @@
 	height: 100;
 }
 .kumpulan-artikel .card{
-	background:cyan;
 	width: 100%;
 	height: 100%;
 }
+
 
 
 
