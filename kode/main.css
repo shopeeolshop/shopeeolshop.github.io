@@ -13,6 +13,10 @@
 	    -ms-user-select: none!important;
 	        user-select: none!important;
 }
+:root{
+	--orange: #FF4D00;
+	--box-shadow: 0 4px 16px rgba(0,0,0,.25);
+}
 ::-moz-selection{
 	color: #fff;
 	background: var(--orange);
@@ -20,10 +24,6 @@
 ::selection{
 	color: #fff;
 	background: var(--orange);
-}
-:root{
-	--orange: #FF4D00;
-	--box-shadow: 0 4px 16px rgba(0,0,0,.25);
 }
 html{
 	overflow-x: hidden;
@@ -586,6 +586,7 @@ body > .section ol > li::marker{
 		width: 5px;
 	}
 }
+
 
 
 
