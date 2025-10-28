@@ -118,7 +118,7 @@
 	}
 }
 
-/* ------------------------ kumpulan artikel pada index ------------------------- */
+/* ------------------------ kumpulan artikel pada halaman utama ------------------------- */
 .artikel-section .box-slider-artikel .content-slider-artikel > *{color: #333;}
 .artikel-section .box-slider-artikel .content-slider-artikel h3{margin: 16px 0;}
 .artikel-section .cta{
@@ -161,13 +161,10 @@
 	margin-right: 8px;
 }
 
-
 /* ------------------------ semua halaman sitemaps ------------------------- */
 .sitemaps .container > *{
 	margin-bottom: 24px;
 }
-
-
 
 /* ------------------------ /artikel/index.html ------------------------- */
 .home-artikel .container{
@@ -187,9 +184,9 @@
 	gap: 2rem 0;
 	width: 100%;
 	height: 100%;
+	text-align: center;
 }
 .home-artikel .container h1{
-	text-align:center;
 	font-size: 34px;
 	color: silver;
 	text-shadow: 2px 2px #333;
@@ -197,9 +194,7 @@
 .home-artikel .container p{
 	font-size: 20px;
 	font-weight: bold;
-	color: grey;
-	text-align: center;
-	text-shadow: 2px 2px #333;
+	color: darkgrey;
 }
 .home-artikel .container .btn{
 	background: var(--orange);
@@ -210,12 +205,16 @@
 	margin-right: 8px;
 }
 
-.kumpulan-artikel {background : yellow;}
+.kumpulan-artikel {
+	background : yellow;
+}
 .kumpulan-artikel .container{
 	display: -ms-grid;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 	grid-gap: 2rem;
+	width: 100%;
 }
-.kumpulan-artikel .container .box{background:cyan;}
+.kumpulan-artikel .container .card{background:cyan;}
+
 
