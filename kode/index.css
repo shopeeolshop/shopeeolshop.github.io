@@ -157,10 +157,23 @@
 }
 
 
-/* ------------------------ kumpulan artikel pada index ------------------------- */
+/* ------------------------ semua halaman sitemaps ------------------------- */
 .sitemaps .container > *{
 	margin-bottom: 24px;
 }
+
+
+
+/* ------------------------ /artikel/index.html ------------------------- */
+.kumpulan-artikel {background : yellow;}
+
+.kumpulan-artikel .container{background : lime;}
+
+
+
+
+
+
 
 
 
