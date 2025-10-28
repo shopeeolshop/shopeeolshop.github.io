@@ -22,7 +22,8 @@ const jsonUrls = [
   '/json/perawatan-dan-kecantikan.json',
   '/json/handphone-dan-aksesoris.json',
   '/json/elektronik.json',
-  '/json/perlengkapan-rumah.json'
+  '/json/perlengkapan-rumah.json',
+  '/json/alat-pertukangan.json'
 ];
 
 window.addEventListener("click", e => {
@@ -139,6 +140,7 @@ document.body.addEventListener('keydown', event => {
 });
 
 */
+
 
 
 
