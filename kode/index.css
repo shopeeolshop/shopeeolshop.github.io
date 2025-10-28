@@ -16,8 +16,7 @@
 	background-position: center;
 	height: calc(100vh - 60px);
 }
-.home .container,
-.home-artikel .container{
+.home .container{
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -35,27 +34,23 @@
 	width: 100%;
 	height: 100%;
 }
-.home .container h1,
-.home-artikel .container h1{
+.home .container h1{
 	font-size: 34px;
 	color: #fff;
 	text-shadow: 2px 2px #333;
 }
-.home .container p,
-.home-artikel .container p{
+.home .container p{
 	font-size: 20px;
 	font-weight: bold;
 	color: whitesmoke;
 	text-align: center;
 	text-shadow: 2px 2px #333;
 }
-.home .container .btn,
-.home-artikel .container .btn{
+.home .container .btn{
 	color: whitesmoke;
 	border: 1px solid whitesmoke;
 }
-.home .container .btn span,
-.home-artikel .container .btn span{
+.home .container .btn span{
 	margin-right: 8px;
 }
 
@@ -205,16 +200,19 @@
 	margin-right: 8px;
 }
 #kumpulan-artikel{
-	background : yellow;
+	background: yellow;
 	display: -ms-grid;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 	grid-gap: 2rem;
 	width: 100%;
+	height: 100;
 }
 .kumpulan-artikel .card{
 	background:cyan;
+	height: 100%;
 }
+
 
 
 
