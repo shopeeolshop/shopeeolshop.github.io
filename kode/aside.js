@@ -19,9 +19,9 @@ fetch('/json/artikel.json')
 
     // Tambahkan tombol setelah .artikel-baru
     const btn = document.createElement('a');
-    btn.href = 'https://shopeeolshop.github.io/artikel/';
+    btn.href = '/artikel/';
     btn.className = 'btn';
-    btn.textContent = 'Semua Artikel';
+    btn.textContent = '<span class="fas fa-list-ul"></span>Kumpulan Artikel';
 
     artikelBaru.insertAdjacentElement('afterend', btn);
   })
