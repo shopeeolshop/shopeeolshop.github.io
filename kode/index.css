@@ -162,6 +162,12 @@
 }
 
 /* ------------------------ /artikel/index.html ------------------------- */
+.home-artikel{
+	width:100%;
+	max-width: 600px;
+	margin: auto;
+}
+
 .home-artikel .container{
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -211,6 +217,7 @@
 	width: 100%;
 	height: 100%;
 }
+
 
 
 
