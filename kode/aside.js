@@ -21,10 +21,11 @@ fetch('/json/artikel.json')
     const btn = document.createElement('a');
     btn.href = '/artikel/';
     btn.className = 'btn';
-    btn.textContent = '<span class="fas fa-list-ul"></span>Kumpulan Artikel';
+    btn.innerHTML = '<span class="fas fa-list-ul"></span>Kumpulan Artikel';
 
     artikelBaru.insertAdjacentElement('afterend', btn);
   })
   .catch(error => {
     console.error('Error:', error);
   });
+
