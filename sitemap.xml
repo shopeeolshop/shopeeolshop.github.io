@@ -19,6 +19,15 @@
         </image:image>
     </url>
     <url>
+        <loc>https://shopeeolshop.github.io/artikel/</loc>
+        <lastmod>2025-08-17T00:00:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://shopeeolshop.github.io/gambar/utama/sampul-kumpulan-artikel-shopee-olshop.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://shopeeolshop.github.io/artikel/daftar-100-produk-trending-shopee-kategori-otomotif-oktober-2025.html</loc>
         <lastmod>2025-08-18T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,3 +82,4 @@
         </image:image>
     </url>
 </urlset>
+
