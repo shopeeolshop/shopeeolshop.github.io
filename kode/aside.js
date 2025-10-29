@@ -18,14 +18,15 @@ fetch('/json/artikel.json')
     artikelBaru.innerHTML = html;
 
     // Tambahkan tombol setelah .artikel-baru
-    const btn = document.createElement('a');
-    btn.href = '/artikel/';
-    btn.className = 'btn';
-    btn.innerHTML = '<span class="fas fa-list-ul"></span>Kumpulan Artikel';
+    const artikelBtn = document.createElement('a');
+    artikelBtn.href = '/artikel/';
+    artikelBtn.className = 'btn';
+    artikelBtn.innerHTML = '<span class="fas fa-list-ul"></span>Kumpulan Artikel';
 
-    artikelBaru.insertAdjacentElement('afterend', btn);
+    artikelBaru.insertAdjacentElement('afterend', artikelBtn);
   })
   .catch(error => {
     console.error('Error:', error);
   });
+
 
