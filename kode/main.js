@@ -23,7 +23,8 @@ const jsonUrls = [
   '/json/handphone-dan-aksesoris.json',
   '/json/elektronik.json',
   '/json/perlengkapan-rumah.json',
-  '/json/alat-pertukangan.json'
+  '/json/alat-pertukangan.json',
+  '/json/perlengkapan-ibadah.json'
 ];
 
 window.addEventListener("click", e => {
@@ -140,6 +141,7 @@ document.body.addEventListener('keydown', event => {
 });
 
 */
+
 
 
 
